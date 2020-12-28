@@ -1,0 +1,28 @@
+{
+  "code": "1",
+  "message": "",
+  "donor": [
+    {
+      "eligible": "true",
+      "name": "Ali",
+      "last_donation_date": "11/09/2019",
+      "small_image": "https://s3-eu-west-1.amazonaws.com/unioncoop/catalog/category/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg",
+      "color_code": "8fd3ff"
+    },
+{
+      "eligible": "false",
+      "name": "Ali",
+      "last_donation_date": "11/09/2018",
+      "small_image": "https://s3-eu-west-1.amazonaws.com/unioncoop/catalog/category/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg",
+      "color_code": "8fd3ff"
+    },
+{
+      "eligible": "true",
+      "name": "Ali",
+      "last_donation_date": "11/01/2020",
+      "small_image": "https://s3-eu-west-1.amazonaws.com/unioncoop/catalog/category/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg",
+      "color_code": "8fd3ff"
+    }
+  ]
+  
+}
