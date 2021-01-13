@@ -2,7 +2,7 @@
 {
   "code": "1",
   "message": "",
-  "donor": [
+  "receiver": [
     {
       "eligible": "true",
       "name": "Ali",
