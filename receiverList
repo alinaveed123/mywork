@@ -1,0 +1,43 @@
+{
+	"code": "1",
+	"message": "",
+	"receiver": [{
+			"eligible": "true",
+			"name": "Ali",
+			"last_donation_date": "11/09/2019",
+			"small_image": "https://s3-eu-west-1.amazonaws.com/unioncoop/catalog/category/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg",
+			"color_code": "8fd3ff",
+			"area": "Malir",
+			"Gender": "Male",
+			"Age": "32",
+			"BloodGroup": "A+",
+			"City": "Karachi"
+		},
+		{
+			"eligible": "true",
+			"name": "Basit",
+			"last_donation_date": "11/09/2019",
+			"small_image": "https://s3-eu-west-1.amazonaws.com/unioncoop/catalog/category/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg",
+			"color_code": "8fd3ff",
+			"area": "Malir",
+			"Gender": "Male",
+			"Age": "32",
+			"BloodGroup": "A-",
+			"City": "Karachi"
+		},
+		{
+			"eligible": "true",
+			"name": "Jibran",
+			"last_donation_date": "11/09/2019",
+			"small_image": "https://s3-eu-west-1.amazonaws.com/unioncoop/catalog/category/Nestle_baby_care_UNION_COOP_SUBCATEGORY.jpg",
+			"color_code": "8fd3ff",
+			"area": "austin",
+			"Gender": "Male",
+			"Age": "35",
+			"BloodGroup": "A+",
+			"City": "London"
+		}
+
+	]
+
+}
