@@ -1,0 +1,108 @@
+{
+	"code": "1",
+	"data": {
+		"blocks": [{
+				"title": "banner",
+				"type": "3",
+				"viewMore": "",
+				"widgetData": [{
+						"id": "1",
+						"image_url": "https://www.suqia.ae/web/image/1980/slide1.jpg",
+						"quantity": "",
+						"title": "ACCESS TO CLEAN WATER \nGIVES THEM AN OPPORTUNITY \nFOR A BRIGHTER FUTURE",
+						"type": ""
+					},
+					{
+						"id": "2",
+						"image_url": "https://www.suqia.ae/web/image/1979/water-crisis-min.jpg",
+						"quantity": "",
+						"title": "LEARN ABOUT \nTHE GLOBAL WATER CRISIS",
+						"type": ""
+					},
+					{
+						"id": "3",
+						"image_url": "https://www.suqia.ae/web/image/1981/HH.jpg",
+						"quantity": "",
+						"title": "The Mohammed Bin Rashid \nAl Maktoum Global Water Award",
+						"type": ""
+					},
+					{
+						"id": "4",
+						"image_url": "https://www.suqia.ae/web/image/1978/Donate_20Banner_20EN.jpg",
+						"quantity": "",
+						"title": "Together, we can stop the global water crisis. Make an impact",
+						"type": ""
+					},
+					{
+						"id": "5",
+						"image_url": "https://www.suqia.ae/web/image/149571/MBRGWA-Website-1920x784%5B4%5D.jpg",
+						"quantity": "",
+						"title": " ",
+						"type": ""
+					}
+				]
+			},
+			{
+				"title": "misc_content",
+				"type": "3",
+				"viewMore": "",
+				"widgetData": [{
+						"id": "1",
+						"image_url": "https://www.suqia.ae/web/image/420/get-involved1.jpg",
+						"quantity": "",
+						"title": "MAKE AN IMPACT TODAY",
+						"type": ""
+					},
+					{
+						"id": "2",
+						"image_url": "https://www.suqia.ae/web/image/421/award_card.jpg",
+						"quantity": "",
+						"title": "MOHAMMED BIN RASHID AL MAKTOUM GLOBAL WATER AWARD",
+						"type": ""
+					},
+					{
+						"id": "3",
+						"image_url": "https://www.suqia.ae/web/image/422/get-involved3.jpg",
+						"quantity": "",
+						"title": "OUR PROGRAMS",
+						"type": ""
+					}
+				]
+			},
+			{
+				"title": "statistics",
+				"type": "3",
+				"viewMore": "",
+				"widgetData": [
+				  {
+					"data": [
+					  {
+							"id": "1",
+							"image_url": "",
+							"quantity": "36",
+							"title": "",
+							"type": "Countries"
+						},
+						{
+							"id": "2",
+							"image_url": "",
+							"quantity": "+1000",
+							"title": "",
+							"type": "Water Projects"
+						},
+						{
+							"id": "3",
+							"image_url": "",
+							"quantity": "+13 Million",
+							"title": "",
+							"type": "Lives Impacted"
+						}
+					]
+				}
+				]
+			}
+		],
+		"pages": 1
+	},
+	"message": "Success"
+}
